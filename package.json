@@ -9,6 +9,7 @@
 		"freecodecamp"
 	],
 	"description": "A sample package.json file for FCC Learn",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
