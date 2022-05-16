@@ -5,7 +5,8 @@
 		"npm",
 		"package.json",
 		"fcc",
-		"learn"
+		"learn",
+		"freecodecamp"
 	],
 	"description": "A sample package.json file for FCC Learn",
 	"dependencies": {
